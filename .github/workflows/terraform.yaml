@@ -4,7 +4,7 @@ name: "Terraform Apply"
 on: 
   push:
     branches:
-      - main  # Runs on push to the main branch
+      - master  # Runs on push to the main branch
 
 #Step2: Defining jobs
 jobs:
